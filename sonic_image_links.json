@@ -431,7 +431,7 @@
 "sonic-centec-arm64.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
@@ -468,14 +468,14 @@
 "sonic-broadcom.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
 "sonic-aboot-broadcom.swi": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
@@ -510,43 +510,43 @@
 "sonic-barefoot.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
   "build": "null",
   "date": ""
  },
 "sonic-centec.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
-  "date": ""
+  "build": "",
+  "date": "null"
  },
 "sonic-centec-arm64.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
+  "build": "",
   "date": ""
  },
 "sonic-generic.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
-  "date": ""
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/...",
+  "build": "",
+  "date": "null"
  },
 "sonic-generic-dbg.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
-  "date": ""
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/...",
+  "build": "",
+  "date": "null"
  },
 "sonic-marvell-armhf.bin": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...null",
-  "build": "null",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/null...",
+  "build": "",
   "date": ""
  },
 "sonic-nephos.bin": {
