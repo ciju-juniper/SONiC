@@ -173,7 +173,7 @@
 "sonic-marvell-armhf.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzI5NjgzMy9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=296833&view=results",
- "diff": "https://github.com/sonic-net/sonic-buildimage/compare/...7fda2dbb033f73ed3bb85c90063efabb4eba8f0d",
+ "diff": "https://github.com/sonic-net/sonic-buildimage/compare/0bab1c8253a7af11fdf4b1e3950220aa0d42cae1...7fda2dbb033f73ed3bb85c90063efabb4eba8f0d",
   "build": "296833",
   "date": "2023-06-18T08:00:31.657755Z"
  },
@@ -243,7 +243,7 @@
   "date": "2023-06-18T08:00:28.4701357Z"
  },
 "sonic-centec-arm64.bin": {
-  "url": "null",
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzI5NjgyMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=296820&view=results",
  "diff": "https://github.com/sonic-net/sonic-buildimage/compare/968852fa72087371e8fe46cc9db627f3d0dfa967...968852fa72087371e8fe46cc9db627f3d0dfa967",
   "build": "296820",
